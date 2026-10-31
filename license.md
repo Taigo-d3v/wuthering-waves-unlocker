@@ -252,6 +252,6 @@ it impossible to tell what is causing a problem if something breaks.
 
 ---
 
-*wuthering-waves-unlocker · Updated 2026-10-30 · Shared under the MIT License*
+*wuthering-waves-unlocker · Updated 2026-10-31 · Shared under the MIT License*
 
-<!-- last reviewed 2026-10-30 -->
+<!-- last reviewed 2026-10-31 -->
